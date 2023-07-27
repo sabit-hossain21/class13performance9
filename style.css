@@ -1,0 +1,26 @@
+h1{
+  
+    border-style: dashed solid dashed solid;
+    border-width: 15px 15px 15px 15px;
+    border-color: red green blue yellow;
+}
+.class1 p{
+    color: deepskyblue;
+    border-right: 10px solid brown;
+    border-left: 10px solid brown;
+    border-bottom: 10px solid brown;
+    border-top: 10px solid brown;
+}
+.class1 {
+    background-image: url(image/car.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+        
+}
+.class1 #pfirst{
+    color: yellow;
+}
+.class1 h1{
+    color: deepskyblue;
+}
